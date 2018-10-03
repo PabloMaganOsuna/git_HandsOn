@@ -1,3 +1,4 @@
+# Cambiosss
 #!/bin/bash
 seq=$1 #Crea la variable
 seq=$(echo $seq | tr a-z A-Z)  # Pasa de minúscula a mayúscula
